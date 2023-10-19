@@ -1,0 +1,7 @@
+ADD game Aanderson Game
+ADD cartoon Graphic Car
+ADD cartoon Cucolniy Car
+ADD game Aanderson Gama
+ADD series Aanderson 24 Se
+REM MovName = Car
+PRINT
